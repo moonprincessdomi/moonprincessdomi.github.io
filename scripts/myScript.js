@@ -1,54 +1,54 @@
 var images= [{
     "id":1,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/1.jpg"
+    "url":"images/gallery/1.jpg"
 },
 {
     "id":2,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/2.jpg"
+    "url":"images/gallery/2.jpg"
 },
 {
     "id":3,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/3.jpg"
+    "url":"images/gallery/3.jpg"
 },
 {
     "id":4,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/4.jpg"
+    "url":"images/gallery/4.jpg"
 },
 {
     "id":5,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/5.jpg"
+    "url":"images/gallery/5.jpg"
 },
 {
     "id":6,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/6.jpg"
+    "url":"images/gallery/6.jpg"
 },
 {
     "id":7,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/7.jpg"
+    "url":"images/gallery/7.jpg"
 },
 {
     "id":8,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/8.jpg"
+    "url":"images/gallery/8.jpg"
 },
 {
     "id":9,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/9.jpg"
+    "url":"images/gallery/9.jpg"
 },
 {
     "id":10,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/10.jpg"
+    "url":"images/gallery/10.jpg"
 },
 {
     "id":11,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/11.jpg"
+    "url":"images/gallery/11.jpg"
 },
 {
     "id":12,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/12.jpg"
+    "url":"images/gallery/12.jpg"
 },
 {
     "id":13,
-    "url":"F:/stronki/domi_bazgroli/images/gallery/13.jpg"
+    "url":"images/gallery/13.jpg"
 }]
 
 function ChangeSize() {
